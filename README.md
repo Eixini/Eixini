@@ -2,7 +2,7 @@
 
 
 
-### Languages that I speak to some extent:
+### Languages I use to varying degrees:
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-%231240AB)
 ![QML](https://img.shields.io/badge/%09%09%09%09%20-QML-%09%09%09%09%23329D27)

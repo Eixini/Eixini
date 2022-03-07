@@ -1,4 +1,4 @@
-         ![Eixini](https://github.com/Eixini/Eixini/blob/main/files/eixini_title.gif)
+![Eixini](https://github.com/Eixini/Eixini/blob/main/files/eixini_title.gif)
 
 # Hello! I am a software engineer developing desktop applications.
 

@@ -1,4 +1,6 @@
-## Hello! I am a software engineer developing desktop applications.
+         ![Eixini](https://github.com/Eixini/Eixini/blob/main/files/eixini_title.gif)
+
+# Hello! I am a software engineer developing desktop applications.
 
 
 
@@ -10,3 +12,5 @@
 ![HTML](https://img.shields.io/badge/%09%09%09%09%20-HTML-%09%09%09%09%23FFA900)
 ![CSS](https://img.shields.io/badge/%09%09%09%09%20-CSS-%09%09%09%09%233D9AD1)
 ![CTRL-Script](https://img.shields.io/badge/%09%09%09%09%20-CTRL--Script-%09%09%09%09%2304819E)
+
+![Eixini Logo](https://github.com/Eixini/Eixini/blob/main/files/Eixini_logo.png)

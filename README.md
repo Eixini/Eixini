@@ -7,6 +7,7 @@
 ### Languages I use to varying degrees:
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-%231240AB)
+![C#](https://img.shields.io/badge/-C%23-%238506A9)
 ![QML](https://img.shields.io/badge/%09%09%09%09%20-QML-%09%09%09%09%23329D27)
 ![JavaScript](https://img.shields.io/badge/%09%09%09%09%20-JavaScript-%09%09%09%09%20%23BBBE30)
 ![HTML](https://img.shields.io/badge/%09%09%09%09%20-HTML-%09%09%09%09%23FFA900)

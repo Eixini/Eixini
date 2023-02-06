@@ -1,6 +1,6 @@
 ![Eixini](https://github.com/Eixini/Eixini/blob/main/files/eixini_title.gif)
 
-# Hello! I am a software engineer developing desktop applications.
+# Hello! I am a software engineer developing backend and desktop applications.
 
 
 
